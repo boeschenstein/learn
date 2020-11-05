@@ -28,6 +28,11 @@ By Joe Eames (thinkster.io): https://www.youtube.com/watch?v=SNbT1vquB6k
   - Teaching: 90% - 100%
 - Typing is NOT coding
 
+- passive examples
+  - videos
+  - blog
+  - talks
+
 ### A natual Example:  Learning to ride a bike
 
 - Modeling correct behavior
@@ -58,3 +63,34 @@ When you are asked to generate an answer to a question. Apply in a new scenario.
 - Foundation
 - Framework
 - Details
+
+### An effective Learning Plan
+
+- Watch content
+  - 10 min max
+  - take notes
+    - (1) for repetition
+    - (2) for look up later
+- Practice
+- Take breaks
+- Personal Project
+- Spaced repetition
+
+### How I learned to program
+
+- Lucky
+
+### Learning with Thinkster
+
+- Watch content
+- Get a small exercise
+- Continue on
+- Get a larger exercise
+- Project course
+  - still active
+
+### From Chat
+
+- https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+
+38
